@@ -200,39 +200,6 @@ sales_and_rentals:
         day_1: 2400
         day_2: 3000
         day_3: 3800
-    
-    # スキー用具（18歳未満・高校生等）
-    ski_equipment_youth:
-      set_3_items: # 板・ストック・靴
-        label: "3点セット(板・ストック・靴)"
-        prices:
-          day_1: 1000
-          day_2: 2000
-      board_stock_only:
-        label: "板・ストックのみ"
-        prices:
-          day_1: 600
-          day_2: 1200
-      boots_only:
-        label: "スキー靴のみ"
-        prices:
-          day_1: 400
-          day_2: 800
-
-    # スキー用具（その他の者）
-    ski_equipment_adult:
-      set_3_items:
-        label: "3点セット(板・ストック・靴)"
-        prices:
-          day_1: 2000
-      board_stock_only:
-        label: "板・ストックのみ"
-        prices:
-          day_1: 1200
-      boots_only:
-        label: "スキー靴のみ"
-        prices:
-          day_1: 800
 
 # ---------------------------------------------------
 # 3. 給食・食材料金 (P13 給食献立・料金表) 
